@@ -1,4 +1,4 @@
-# Hi, my name is Igor!
+# Hi, my name is Ihor!
 
 ---
 
@@ -10,7 +10,7 @@ I'm an aspiring Java developer<img src="https://media.giphy.com/media/WUlplcMpOC
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-igorsolod-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igorsolodu) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:igor.soloduha@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-igorsolodu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/igorsolodu) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:igor.soloduha@gmail.com)
 
 ---
 
